@@ -11,7 +11,7 @@ To make sure you have Node and NPM installed, run two simple commands to see wha
 
 Check out the git repository, then do
 
-	1. `cd angular_sample` 
+	1. `cd sample_reactjs` 
 	2. `npm install`
 	3. `npm start`
 	4. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
@@ -30,7 +30,7 @@ To make sure you have Node and NPM installed, run two simple commands to see wha
 
 Check out the git repository, then do
 
-	1. `cd angular_sample` 
+	1. `cd sample_reactjs` 
 	2. `npm install`
 	3. `npm start`
 	4. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
